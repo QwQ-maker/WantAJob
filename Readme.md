@@ -27,8 +27,6 @@ https://longsys.zhiye.com/campus
 ⏰时间：9月18日15:00
 💡地点：电气工程学院201
 
-<img src="./images/jbl.jpg" alt="jbl" style="zoom:50%;" />
-
 #### 备注
 
 有学长在，说待遇不错，偏硬件
